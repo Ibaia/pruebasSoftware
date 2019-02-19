@@ -1,8 +1,31 @@
+body{
+	
+}
 .main{
     width: 960px;
 }
 
 img{
     width: 400px;
-    float: left;
+    float: right;
+    border-radius: 50%;
+    border-style:dotted;
+	border-font:4px;
+}
+p{
+	font-size:11px;
+}
+.pruebas{
+	background-color:grey;
+}
+.verificacion{
+	background-color: wheat;
+	border-style:dotted;
+	border-font:4px;
+	margin-bottom: 5px;
+}
+.validacion{
+	background-color:lightblue;
+	border-style:dotted;
+	border-font:4px;
 }
